@@ -1,0 +1,1 @@
+puts "You only passed 1 argument to the calculate_product method, and it requires 2."
